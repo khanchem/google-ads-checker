@@ -1,0 +1,13 @@
+{
+    "name": "restyler/amazon-scraper",
+    "description": "Simple scraping for Amazon product details and reviews.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+          "AmazonScraper\\": "src/"
+        }
+    }
+}
